@@ -1,4 +1,4 @@
-FROM php:7.3.26-apache
+FROM php:7.4.21-apache
 
 ENV APACHE_DOCUMENT_ROOT /srv/www/htdocs
 ENV APACHE_UID 1000
